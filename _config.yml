@@ -24,7 +24,7 @@ description: >-
   본 블로그는 개인적으로 공부하면서 풀이한 웹 및 시스템 해킹을 기록하는 공간입니다.
 baseurl: "/hackers" # the subpath of your site, e.g. /blog
 url: "http://hyunsang.dev" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dev-hyunsang
+twitter_username: dev_hyunsang
 github_username:  dev-hyunsang
 linkedin_username: parkhyunsang
 
