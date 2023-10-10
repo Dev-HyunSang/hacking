@@ -54,6 +54,6 @@ if($_COOKIE['user_lv']>3) solve(1);
 
 `user_lv`의 값이 3 초과 4 미만이면 되니, `3.3`, `3.4` 등 `3.x`의 값을 넣어주시면 손쉽게 푸실 수 있습니다.
 
-![05](/hackers/assets/images/webhackingkr/old-01/04.png)
+![054(/hackers/assets/images/webhackingkr/old-01/05.png)
 
 **We are DONE!**
