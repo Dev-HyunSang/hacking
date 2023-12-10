@@ -19,5 +19,6 @@ permalink: /resolved
 - 2023.10.22 - Resloved [web-misconf-1](web-hacking/2023/10/22/dreamhack-web-misconf-1.html)
 - 2023.11.03 - Resloved [command-injection-chatgpt](web-hacking/2023/11/03/dreamhack-command-injection-chatgpt.html)
 - 2023.11.03 - Resloved [CSRF Advanced](web-hacking/2023/11/03/dreamhack-csrf-advanced.html)
+- 2023.11.04 - Resloved [session-basic]()
 
 # study
