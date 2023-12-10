@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HyunSang Park
+title: HyunSang Park, To!m$F
 email: me@hyunsang.dev
 description: >-
   본 블로그는 개인적으로 공부하면서 풀이한 웹 및 시스템 해킹을 기록하는 공간입니다.
